@@ -87,3 +87,6 @@ sympy-plots-for-*.tex/
 
 # xindy
 *.xdy
+
+hw2ext.pdf
+hw2ext.tps
